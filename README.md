@@ -129,11 +129,11 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
   <tr>
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <img src="https://via.placeholder.com/400x250" alt="Foto 3" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Pizza.png" alt="Foto 3" width="100%" style="border-radius: 8px;">
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Diseñar la pizza perfecta es como balancear un juego: se trata de la mezcla exacta de ingredientes y de compartir el resultado final.</i></p>
     </td>
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <img src="https://via.placeholder.com/400x250" alt="Foto 4" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Dongua.png" width="100%" style="border-radius: 8px;">
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Buscando referencias en la narrativa visual del Donghua y la estética de la ciencia ficción para mis próximos entornos.</i></p>
     </td>
   </tr>
