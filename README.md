@@ -152,7 +152,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <tr>
         <td>
           <a href="https://giphy.com/gifs/AstonVillaFC-fifa-avfc-partofthepride-jtcZcqOyHy3d0DQ8Q7" target="_blank">
-            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kbTJlam8yeHA4eG14MXVsNTVqeWRvdG0zcDg4cjhpcjNydjJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4DcSfusscxaKKKPYs/giphy.gif" width="300" style="margin-bottom: 10px;">
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kbTJlam8yeHA4eG14MXVsNTVqeWRvdG0zcDg4cjhpcjNydjJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4DcSfusscxaKKKPYs/giphy.gif" width="50" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
