@@ -31,7 +31,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Street%20Fighter.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="URL_IMAGEN_2" alt="Imagen 2" width="100%" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Mortal%20Komba.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
       <img src="URL_IMAGEN_3" alt="Imagen 3" width="100%" style="border-radius: 4px; display: block;">
