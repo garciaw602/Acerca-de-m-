@@ -25,6 +25,36 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
 
 
+<table align="center" border="0" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
+  <tr>
+    <td align="center" width="25%" style="padding: 5px;">
+      <img src="https://tenor.com/es/view/donkey-kong-running-mario-vs-donkey-kong-gif-12205959129509293324" style="border-radius: 4px; display: block;">
+    </td>    
+    <td align="center" width="25%" style="padding: 5px;">
+      <img src="URL_IMAGEN_2" alt="Imagen 2" width="100%" style="border-radius: 4px; display: block;">
+    </td>    
+    <td align="center" width="25%" style="padding: 5px;">
+      <img src="URL_IMAGEN_3" alt="Imagen 3" width="100%" style="border-radius: 4px; display: block;">
+    </td>    
+    <td align="center" width="25%" style="padding: 5px;">
+      <img src="URL_IMAGEN_4" alt="Imagen 4" width="100%" style="border-radius: 4px; display: block;">
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <table align="center" border="0" style="max-width: 800px; border-collapse: collapse;">
   <tr>
     <td colspan="3" style="padding: 20px; text-align: justify; line-height: 1.6; font-family: sans-serif;">
