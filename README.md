@@ -55,3 +55,53 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
     </td>
   </tr>
 </table>
+
+
+
+
+
+
+
+<table align="center" border="0" style="max-width: 850px; border-collapse: collapse; font-family: sans-serif;">
+  <tr>
+    <td colspan="2" style="padding: 10px 20px 0px 20px;">
+      <h2 align="center" style="color: #2c3e50;">Más allá del código</h2>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" style="padding: 10px 20px 30px 20px; text-align: justify; line-height: 1.6;">
+      Cuando no estoy peleando con un bug en Unity o diseñando algoritmos, me encontrarás buscando inspiración en otras formas de arte y convivencia. Creo que el desarrollo de juegos se nutre de las experiencias reales y de las historias que consumimos.
+      <br><br>
+      <b>• Exploración y Narrativa:</b> Soy un gran entusiasta del Anime y el Donghua. Me fascina analizar su narrativa visual y cómo logran transmitir emociones épicas; trato de llevar esa misma intensidad a las animaciones y efectos de mis proyectos.
+      <br>
+      <b>• Música y Voz:</b> Disfruto mucho haciendo música y cantando. Entender el ritmo y la armonía me ayuda a tener una mejor sensibilidad para la programación audiovisual y el diseño de SFX en mis juegos.
+      <br>
+      <b>• Creatividad en la Cocina:</b> Mi lenguaje de amor y desconexión es preparar pizzas artesanales para compartir con amigos. Al igual que en el desarrollo, en la cocina todo se trata de encontrar el balance perfecto de los ingredientes.
+      <br>
+      <b>• Naturaleza y Recarga:</b> Salir a caminar con mi perro es mi momento de "reinicio". El cine de acción y ciencia ficción completa mi dieta creativa, dándome ideas para sistemas futuristas y mecánicas de combate dinámicas.
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 10px;">
+      <img src="https://via.placeholder.com/400x250" alt="Foto 1" width="100%" style="border-radius: 8px;">
+      <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Desconectando para reconectar. Caminar con mi perro es mi ritual para mantener la mente fresca y creativa.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 10px;">
+      <img src="https://via.placeholder.com/400x250" alt="Foto 2" width="100%" style="border-radius: 8px;">
+      <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Explorando la narrativa a través del sonido. La música me enseña sobre ritmo y 'timing', elementos vitales para un buen gameplay.</i></p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" align="center" valign="top" style="padding: 10px;">
+      <img src="https://via.placeholder.com/400x250" alt="Foto 3" width="100%" style="border-radius: 8px;">
+      <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Diseñar la pizza perfecta es como balancear un juego: se trata de la mezcla exacta de ingredientes y de compartir el resultado final.</i></p>
+    </td>
+    <td width="50%" align="center" valign="top" style="padding: 10px;">
+      <img src="https://via.placeholder.com/400x250" alt="Foto 4" width="100%" style="border-radius: 8px;">
+      <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Buscando referencias en la narrativa visual del Donghua y la estética de la ciencia ficción para mis próximos entornos.</i></p>
+    </td>
+  </tr>
+</table>
