@@ -28,7 +28,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 <table align="center" border="0" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
   <tr>
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="https://tenor.com/es/view/donkey-kong-running-mario-vs-donkey-kong-gif-12205959129509293324" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Street%20Fighter.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
       <img src="URL_IMAGEN_2" alt="Imagen 2" width="100%" style="border-radius: 4px; display: block;">
