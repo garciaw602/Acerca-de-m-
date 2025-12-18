@@ -34,10 +34,10 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Mortal%20Komba.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="URL_IMAGEN_3" alt="Imagen 3" width="100%" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Donkey%20Kong.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="URL_IMAGEN_4" alt="Imagen 4" width="100%" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Pac-Man.gif" style="border-radius: 4px; display: block;">
     </td>
   </tr>
 </table>
