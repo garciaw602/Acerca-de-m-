@@ -138,3 +138,6 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
     </td>
   </tr>
 </table>
+
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3Y4cmg3endmMGk2eWJrcHY1NjNiOWg5Mzk2ZXdxMTFzbXJib25oOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Azaj7mTthLESMKL9s1/giphy.gif" alt="Foto 2" width="100%" style="border-radius: 8px;">
