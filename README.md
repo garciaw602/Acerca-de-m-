@@ -1,3 +1,14 @@
-<div align="center">
-    <a href='https://postimages.org/' target='_blank'><img src='https://i.ibb.co/1ytyzyW/Sobre-mi.png' border='0' alt='banner-git-removebg-preview-1'/></a>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href='https://postimages.org/' target='_blank'>
+        <img src='https://i.ibb.co/1ytyzyW/Sobre-mi.png' border='0' alt='imagen1' width="300"/>
+      </a>
+    </td>
+    <td>
+      <a href='https://postimages.org/' target='_blank'>
+        <img src='https://i.ibb.co/1ytyzyW/Sobre-mi.png' border='0' alt='imagen2' width="300"/>
+      </a>
+    </td>
+  </tr>
+</table>
