@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://postimages.org/' target='_blank'>
-    <img src="" alt="GIF width="600" style="margin-bottom: 10px;">
+    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Sobre%20mi.png" alt="GIF width="600" style="margin-bottom: 10px;">
   </a>
 </div>
 
