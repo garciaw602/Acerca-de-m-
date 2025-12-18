@@ -152,51 +152,51 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <tr>
         <td>
           <a href="https://giphy.com/gifs/AstonVillaFC-fifa-avfc-partofthepride-jtcZcqOyHy3d0DQ8Q7" target="_blank">
-            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kbTJlam8yeHA4eG14MXVsNTVqeWRvdG0zcDg4cjhpcjNydjJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4DcSfusscxaKKKPYs/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG1kbTJlam8yeHA4eG14MXVsNTVqeWRvdG0zcDg4cjhpcjNydjJqYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/F4DcSfusscxaKKKPYs/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://giphy.com/gifs/jrpg-genshin-impact-Azaj7mTthLESMKL9s1" target="_blank">
-            <img src="https://media.giphy.com/media/Azaj7mTthLESMKL9s1/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media.giphy.com/media/Azaj7mTthLESMKL9s1/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://giphy.com/gifs/one-piece-gear-5-joyboy-SlTl6ZzuU0QOdSXCvi" target="_blank">
-            <img src="https://media.giphy.com/media/SlTl6ZzuU0QOdSXCvi/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media.giphy.com/media/SlTl6ZzuU0QOdSXCvi/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
       </tr>
       <tr>
         <td>
           <a href="https://media4.giphy.com/media/xUPGcIouENCyPYCj8k/giphy.gif" target="_blank">
-            <img src="https://media4.giphy.com/media/xUPGcIouENCyPYCj8k/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media4.giphy.com/media/xUPGcIouENCyPYCj8k/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://media3.giphy.com/media/gw3wKdBoXbRknOJG/giphy.gif" target="_blank">
-            <img src="https://media3.giphy.com/media/gw3wKdBoXbRknOJG/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media3.giphy.com/media/gw3wKdBoXbRknOJG/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://media2.giphy.com/media/jSVg0JQbznK3SkZ9Wv/giphy.gif" target="_blank">
-            <img src="https://media2.giphy.com/media/jSVg0JQbznK3SkZ9Wv/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media2.giphy.com/media/jSVg0JQbznK3SkZ9Wv/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
       </tr>
       <tr>
         <td>
           <a href="https://media3.giphy.com/media/47IuvvMjOzYv753PkS/giphy.gif" target="_blank">
-            <img src="https://media3.giphy.com/media/47IuvvMjOzYv753PkS/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media3.giphy.com/media/47IuvvMjOzYv753PkS/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://media2.giphy.com/media/3otPoxTiLPUWtJpm36/giphy.gif" target="_blank">
-            <img src="https://media2.giphy.com/media/3otPoxTiLPUWtJpm36/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media2.giphy.com/media/3otPoxTiLPUWtJpm36/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
         <td>
           <a href="https://media1.giphy.com/media/d2PqO9s7M9CNO/giphy.gif" target="_blank">
-            <img src="https://media1.giphy.com/media/d2PqO9s7M9CNO/giphy.gif" width="50" style="margin-bottom: 10px;">
+            <img src="https://media1.giphy.com/media/d2PqO9s7M9CNO/giphy.gif" width="150" style="margin-bottom: 10px;">
           </a>
         </td>
       </tr>
