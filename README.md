@@ -21,6 +21,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
 
 
+
 <table align="center" border="0" style="max-width: 800px; border-collapse: collapse;">
   <tr>
     <td colspan="3" style="padding: 20px; text-align: justify; line-height: 1.6; font-family: sans-serif;">
@@ -32,25 +33,25 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="Imagen 1" width="200"><br>Imagen 1
+      <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif?raw=true" alt="EnRuta" width="200"><br>EnRuta
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 2" width="200"><br>Imagen 2
+      <img src="https://github.com/garciaw602/Elara/blob/main/Elara%20gif.gif?raw=true" alt="Elara" width="200"><br>Elara
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 3" width="200"><br>Imagen 3
+      <img src="https://raw.githubusercontent.com/garciaw602/pullulat-spei/main/gif%20pullulat.gif" alt="Pullulat Spei" width="200"><br>Pullulat Spei
     </td>
   </tr>
 
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 4" width="200"><br>Imagen 4
+      <img src="https://raw.githubusercontent.com/garciaw602/Elara/main/synergy%20gif.gif" alt="Synergy" width="200"><br>Synergy
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 5" width="200"><br>Imagen 5
+      <img src="https://github.com/garciaw602/GestionRIesgo/blob/main/GestiondeRiesgo.gif?raw=true" alt="Gestión de Riesgo" width="200"><br>Gestión de Riesgo
     </td>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 6" width="200"><br>Imagen 6
+      <img src="https://github.com/garciaw602/Motopaint-Pro/blob/main/MotoPaintPro2.gif?raw=true" alt="MotoPaint Pro" width="200"><br>MotoPaint Pro
     </td>
   </tr>
 </table>
