@@ -92,7 +92,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Desconectando para reconectar. Caminar con mi perro es mi ritual para mantener la mente fresca y creativa.</i></p>
     </td>
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <img src="https://via.placeholder.com/400x250" alt="Foto 2" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Proyecto%20nuevo%20(11).png" alt="Foto 2" width="100%" style="border-radius: 8px;">
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Explorando la narrativa a través del sonido. La música me enseña sobre ritmo y 'timing', elementos vitales para un buen gameplay.</i></p>
     </td>
   </tr>
