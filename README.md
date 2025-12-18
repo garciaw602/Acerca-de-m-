@@ -28,16 +28,16 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 <table align="center" border="0" style="width: 100%; max-width: 1000px; border-collapse: collapse;">
   <tr>
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Street%20Fighter.gif" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Street%20Fighter.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Mortal%20Komba.gif" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Mortal%20Komba.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Donkey%20Kong.gif" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Donkey%20Kong.gif" style="border-radius: 4px; display: block;">
     </td>    
     <td align="center" width="25%" style="padding: 5px;">
-      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Pac-Man.gif" style="border-radius: 4px; display: block;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Pac-Man.gif" style="border-radius: 4px; display: block;">
     </td>
   </tr>
 </table>
@@ -122,7 +122,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Desconectando para reconectar. Caminar con mi perro es mi ritual para mantener la mente fresca y creativa.</i></p>
     </td>
     <td width="50%" align="center" valign="top" style="padding: 10px;">
-      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Proyecto%20nuevo%20(11).png" alt="Foto 2" width="100%" style="border-radius: 8px;">
+      <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Canto.png" alt="Foto 2" width="100%" style="border-radius: 8px;">
       <p style="font-size: 0.9em; color: #555; padding: 5px;"><i>Explorando la narrativa a través del sonido. La música me enseña sobre ritmo y 'timing', elementos vitales para un buen gameplay.</i></p>
     </td>
   </tr>
