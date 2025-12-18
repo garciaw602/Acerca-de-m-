@@ -1,4 +1,8 @@
-
+<div align="center">
+  <a href='https://postimages.org/' target='_blank'>
+    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Sobre%20mi.png" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
+  </a>
+</div>
 
 <table align="center">
   <tr>
