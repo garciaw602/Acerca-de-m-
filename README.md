@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://postimages.org/' target='_blank'>
-    <img src='https://i.ibb.co/1ytyzyW/Sobre-mi.png' border='0' width="400"/>
+    <img src="https://github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="GIF del juego Enruta" width="200" style="margin-bottom: 10px;">
   </a>
 </div>
 
