@@ -147,7 +147,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
 
 <div align="center">
-  <a href="https://giphy.com/gifs/AstonVillaFC-fifa-avfc-partofthepride-jtcZcqOyHy3d0DQ8Q7" target="_blank">
+  <a href="https://media.giphy.com/media/jtcZcqOyHy3d0DQ8Q7/giphy.gif" target="_blank">
     <img src="https://media.giphy.com/media/jtcZcqOyHy3d0DQ8Q7/giphy.gif" width="300" style="margin-bottom: 10px;">
   </a>
   <a href="https://giphy.com/gifs/jrpg-genshin-impact-Azaj7mTthLESMKL9s1" target="_blank">
