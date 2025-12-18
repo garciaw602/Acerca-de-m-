@@ -15,6 +15,9 @@
       <pstyle="margin-left: 9px;">Formado en Medellín Colombia y transformado por la magia de las consolas arcade de barrio con  juegos como: Street Fighter, Mortal Komba, Pac-Man y Donkey Kong.</p> Mi pasión es la intersección entre el arte y la tecnología, enfocada en la creación de mundos digitales e inmersivos</p>
 Mi enfoque combina el rigor técnico de la ingeniería con una visión artística, buscando siempre transformar líneas de código en experiencias que cautiven al usuario.
 </p>
+          <a href='https://postimages.org/' target='_blank'>
+    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Banner%20(1)%20(1).png" alt="GIF del juego Enruta" width="600" style="margin-bottom: 10px;">
+  </a>
     </td>
   </tr>
 </table>
