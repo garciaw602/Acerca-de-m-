@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://postimages.org/' target='_blank'>
-    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Sobre%20mi.png" alt="GIF del juego Enruta" width="600" style="margin-bottom: 10px;">
+    <img src="https://tenor.com/view/donkey-kong-running-mario-vs-donkey-kong-gif-12205959129509293324" alt="GIF del juego Enruta" width="600" style="margin-bottom: 10px;">
   </a>
 </div>
 
