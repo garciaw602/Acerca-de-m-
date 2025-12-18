@@ -32,7 +32,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
   <tr>
     <td align="center" style="padding: 10px;">
-      <img src="https://via.placeholder.com/200" alt="Imagen 1" width="200"><br>Imagen 1
+      <img src="github.com/garciaw602/EnRuta-EndlessRunner/blob/main/EnRuta-EndlessRunner/Enruta.gif" alt="Imagen 1" width="200"><br>Imagen 1
     </td>
     <td align="center" style="padding: 10px;">
       <img src="https://via.placeholder.com/200" alt="Imagen 2" width="200"><br>Imagen 2
