@@ -1,6 +1,6 @@
 <div align="center">
   <a href='https://postimages.org/' target='_blank'>
-    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Banner.png" alt="GIF width="600" style="margin-bottom: 10px;">
+    <img src="" alt="GIF width="600" style="margin-bottom: 10px;">
   </a>
 </div>
 
@@ -16,7 +16,7 @@
 Mi enfoque combina el rigor técnico de la ingeniería con una visión artística, buscando siempre transformar líneas de código en experiencias que cautiven al usuario.
 </p>
           <a href='https://postimages.org/' target='_blank'>
-    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Banner%20(1)%20(1).png" alt="GIF del juego Enruta" width="600" style="margin-bottom: 10px;">
+    <img src="https://github.com/garciaw602/Acerca-de-m-/blob/main/Documentos/Banner.png" alt="GIF del juego Enruta" width="600" style="margin-bottom: 10px;">
   </a>
     </td>
   </tr>
