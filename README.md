@@ -8,7 +8,7 @@
   <tr>
     <td align="center" valign="middle">
       <a href='https://postimages.org/' target='_blank'>
-        <img src='https://github.com/garciaw602/Acerca-de-m-/blob/main/Wilson.png' border='0' width="300"/>
+        <img src='https://github.com/garciaw602/Acerca-de-m-/blob/main/Wilson.png' border='0' width="600"/>
       </a>
     </td>
     <td valign="middle">
