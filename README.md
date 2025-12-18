@@ -185,16 +185,16 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
     <tbody>
         <tr>
             <td>
-                <img src="https://media.giphy.com/media/jtcZcqOyHy3d0DQ8Q7/giphy.gif" alt="Aston Villa">
-                <div class="caption">Aston Villa</div>
+                <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ1cjBlZXh0YnJkMXp3ZTcyd3hpd2FjbnNpeTF6MnF0aXcyMm4wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6SJou0ElpKmGxTQHy/giphy.gif" alt="Aston Villa">
+                <div class="caption"></div>
             </td>
             <td>
                 <img src="https://media.giphy.com/media/Azaj7mTthLESMKL9s1/giphy.gif" alt="Genshin Impact">
-                <div class="caption">Genshin Impact</div>
+                <div class="caption"></div>
             </td>
             <td>
                 <img src="https://media.giphy.com/media/SlTl6ZzuU0QOdSXCvi/giphy.gif" alt="One Piece">
-                <div class="caption">One Piece</div>
+                <div class="caption"></div>
             </td>
         </tr>
         <tr>
