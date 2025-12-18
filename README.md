@@ -142,7 +142,7 @@ Mi enfoque combina el rigor técnico de la ingeniería con una visión artístic
 
 <div align="center">
   <a href="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ1cjBlZXh0YnJkMXp3ZTcyd3hpd2FjbnNpeTF6MnF0aXcyMm4wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6SJou0ElpKmGxTQHy/giphy.gif" target="_blank">
-    <img src="https://media.giphy.com/media/jtcZcqOyHy3d0DQ8Q7/giphy.gif" width="300" style="margin-bottom: 10px;">
+    <img src="[https://media.giphy.com/media/jtcZcqOyHy3d0DQ8Q7/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXQ1cjBlZXh0YnJkMXp3ZTcyd3hpd2FjbnNpeTF6MnF0aXcyMm4wdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y6SJou0ElpKmGxTQHy/giphy.gif)" width="300" style="margin-bottom: 10px;">
   </a>
   <a href="https://giphy.com/gifs/jrpg-genshin-impact-Azaj7mTthLESMKL9s1" target="_blank">
     <img src="https://media.giphy.com/media/Azaj7mTthLESMKL9s1/giphy.gif" width="300" style="margin-bottom: 10px;">
